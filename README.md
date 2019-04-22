@@ -2,8 +2,8 @@
 
 ## Learning Goals
 
--SWBAT 1
--SWBAT 2
+- SWBAT 1
+- SWBAT 2
 
 ## Introduction
 
@@ -14,3 +14,7 @@
 ## Conclusion
 
 ## Resources
+
+- [Example][example]
+
+[example]: example.com
